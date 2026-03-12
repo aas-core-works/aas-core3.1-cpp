@@ -1,3 +1,18 @@
+# Our manual excludes
+
+/.claude/
+/.idea/
+/.venv*/
+*.egg-info
+/build*/
+/dependencies-for-local-development-on-windows/
+/dist/
+/cmake-build-debug/
+/cmake-build-release/
+/local-built-doc/
+/vcpkg_installed/
+/.vcpkg/
+
 # Prerequisites
 *.d
 
