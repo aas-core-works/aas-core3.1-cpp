@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['2026_2003_2012_0',['0.0.1-alpha.1 (2026-03-12)',['../md_doc_2changelog.html#autotoc_md1',1,'']]]
+  ['changelog_0',['Changelog',['../md_doc_2changelog.html',1,'']]],
+  ['contributing_20guidelines_1',['Contributing Guidelines',['../md_doc_2contributing.html',1,'']]],
+  ['core3_201_2',['aas-core3.1',['../index.html',1,'']]]
 ];

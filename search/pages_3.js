@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['8_0',['Wide Strings and UTF-8',['../md_doc_2getting-started.html#autotoc_md31',1,'']]]
+  ['decisions_0',['Design Decisions',['../md_doc_2design-decisions.html',1,'']]],
+  ['design_20decisions_1',['Design Decisions',['../md_doc_2design-decisions.html',1,'']]]
 ];

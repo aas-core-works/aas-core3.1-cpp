@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['serializationexception_0',['SerializationException',['../classaas__core_1_1aas__3__1_1_1jsonization_1_1SerializationException.html',1,'aas_core::aas_3_1::jsonization::SerializationException'],['../classaas__core_1_1aas__3__1_1_1xmlization_1_1SerializationException.html',1,'aas_core::aas_3_1::xmlization::SerializationException']]],
+  ['serializationexception_0',['serializationexception',['../classaas__core_1_1aas__3__1_1_1jsonization_1_1SerializationException.html',1,'aas_core::aas_3_1::jsonization::SerializationException'],['../classaas__core_1_1aas__3__1_1_1xmlization_1_1SerializationException.html',1,'aas_core::aas_3_1::xmlization::SerializationException']]],
   ['specificassetid_1',['SpecificAssetId',['../classaas__core_1_1aas__3__1_1_1types_1_1SpecificAssetId.html',1,'aas_core::aas_3_1::types']]],
   ['submodel_2',['Submodel',['../classaas__core_1_1aas__3__1_1_1types_1_1Submodel.html',1,'aas_core::aas_3_1::types']]],
   ['submodelelementcollection_3',['SubmodelElementCollection',['../classaas__core_1_1aas__3__1_1_1types_1_1SubmodelElementCollection.html',1,'aas_core::aas_3_1::types']]],
