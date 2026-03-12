@@ -1,6 +1,6 @@
 vcpkg_from_github(
         OUT_SOURCE_PATH SOURCE_PATH
-        REPO aas-core-works/aas-core3.0-cpp
+        REPO aas-core-works/aas-core3.1-cpp
         REF "${VERSION}"
         SHA512 0  # This is a temporary value. We will modify this value in the next section.
         HEAD_REF main
@@ -13,7 +13,7 @@ vcpkg_cmake_configure(
 
 vcpkg_cmake_install()
 
-vcpkg_cmake_config_fixup(PACKAGE_NAME "aas-core3-0-cpp")
+vcpkg_cmake_config_fixup(PACKAGE_NAME "aas-core3-1-cpp")
 
 file(REMOVE_RECURSE "${CURRENT_PACKAGES_DIR}/debug/include")
 
