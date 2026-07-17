@@ -1,4 +1,4 @@
-# aas-core3.0-cpp
+# aas-core3.1-cpp
 
 [![Build and Test](https://github.com/aas-core-works/aas-core3.1-cpp/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/aas-core-works/aas-core3.1-cpp/actions/workflows/build-and-test.yml)
 
